@@ -1,4 +1,4 @@
-# **Análise de Anomalias em Séries Temporais de Criptomoedas** 📊💸
+# **Detecção de Anomalias em Séries Temporais de Criptomoedas** 📊💸
 
 ## **📖 Descrição**
 
@@ -14,9 +14,8 @@ Este projeto investiga as flutuações nas séries temporais das criptomoedas **
 ## **🚀 Funcionalidades**
 
 - ✅ Identificação de anomalias utilizando **Matrix Profile**.  
-- ✅ Detecção de padrões com **Dynamic Time Warping (DTW)**.  
-- ✅ Correlação de anomalias com eventos globais históricos.  
-- 📈 Visualização interativa das flutuações das criptomoedas.  
+- ✅ Identificação de anomalias utilizando **Dynamic Time Warping (DTW)**.  
+- ✅ Correlação de anomalias com eventos globais históricos.   
 
 ---
 
@@ -29,7 +28,6 @@ Este projeto foi desenvolvido com as seguintes bibliotecas e ferramentas:
 - **NumPy**: Operações matemáticas e arrays.  
 - **Matplotlib** e **Seaborn**: Visualização de dados.  
 - **Stumpy**: Implementação de Matrix Profile.  
-- **DTAIDistance**: Implementação de DTW.  
 - **FastDTW**: Algoritmo DTW otimizado.  
 - **SciPy**: Cálculos de distância.  
 - **Statsmodels**: Decomposição sazonal para análise de séries temporais.
